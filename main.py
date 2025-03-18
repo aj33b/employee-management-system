@@ -11,6 +11,7 @@ def main():
         print("2. Migrate Database (one-time)")
         print("3. Exit")
 
+        # Some comments
         choice = input("Enter your choice: ")
 
         if choice == "1": # Login
