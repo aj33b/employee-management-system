@@ -6,3 +6,4 @@
 - Changes from remote directly.
 - Changes from local.
 - Second changes from remote.
+- Added unstage comments.
